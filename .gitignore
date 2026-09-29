@@ -1,0 +1,38 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# C / C++ build outputs
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+
+# Lexer & Parser generated files
+*.tab.c
+*.tab.h
+*.yy.c
+lex.yy.c
+a.out
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
